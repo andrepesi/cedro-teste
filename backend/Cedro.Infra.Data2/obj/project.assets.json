@@ -4991,11 +4991,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj",
       "projectName": "Cedro.Infra.Data",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Infra.Data2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Infra.Data2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5014,8 +5014,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
+            "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
             }
           }
         }

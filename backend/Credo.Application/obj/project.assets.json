@@ -791,11 +791,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Credo.Application\\Credo.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Credo.Application\\Credo.Application.csproj",
       "projectName": "Credo.Application",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Credo.Application\\Credo.Application.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Credo.Application\\Credo.Application.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Credo.Application\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Credo.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -814,8 +814,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
+            "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
             }
           }
         }

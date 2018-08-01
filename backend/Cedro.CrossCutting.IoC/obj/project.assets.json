@@ -5328,11 +5328,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.CrossCutting.IoC\\Cedro.CrossCutting.IoC.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.CrossCutting.IoC\\Cedro.CrossCutting.IoC.csproj",
       "projectName": "Cedro.CrossCutting.IoC",
-      "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.CrossCutting.IoC\\Cedro.CrossCutting.IoC.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.CrossCutting.IoC\\Cedro.CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.CrossCutting.IoC\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5351,14 +5351,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj"
+            "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Infra.Data2\\Cedro.Infra.Data.csproj"
             },
-            "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
+            "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Domain\\Cedro.Domain.csproj"
             },
-            "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Credo.Application\\Credo.Application.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Documents\\Cedro\\backend\\Credo.Application\\Credo.Application.csproj"
+            "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Credo.Application\\Credo.Application.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Credo.Application\\Credo.Application.csproj"
             }
           }
         }

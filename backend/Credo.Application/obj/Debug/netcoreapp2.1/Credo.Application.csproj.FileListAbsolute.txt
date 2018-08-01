@@ -9,3 +9,14 @@ C:\Users\Admin\Documents\Cedro\backend\Credo.Application\obj\Debug\netcoreapp2.1
 C:\Users\Admin\Documents\Cedro\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.AssemblyInfo.cs
 C:\Users\Admin\Documents\Cedro\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.dll
 C:\Users\Admin\Documents\Cedro\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.pdb
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\bin\Debug\netcoreapp2.1\Credo.Application.deps.json
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\bin\Debug\netcoreapp2.1\Credo.Application.dll
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\bin\Debug\netcoreapp2.1\Credo.Application.pdb
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\bin\Debug\netcoreapp2.1\Cedro.Domain.dll
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\bin\Debug\netcoreapp2.1\Cedro.Domain.pdb
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.AssemblyInfo.cs
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.dll
+C:\Users\Admin\Downloads\cedro-teste\backend\Credo.Application\obj\Debug\netcoreapp2.1\Credo.Application.pdb
