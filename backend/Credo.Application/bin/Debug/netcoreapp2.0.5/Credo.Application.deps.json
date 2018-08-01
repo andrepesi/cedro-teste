@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0.5",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0.5": {
+      "Credo.Application/1.0.0": {
+        "dependencies": {
+          "Cedro.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Credo.Application.dll": {}
+        }
+      },
+      "Cedro.Domain/1.0.0": {
+        "runtime": {
+          "Cedro.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Credo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cedro.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

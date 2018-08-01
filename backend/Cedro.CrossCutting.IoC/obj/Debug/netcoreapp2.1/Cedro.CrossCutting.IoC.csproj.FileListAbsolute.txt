@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.dll.config
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.deps.json
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.Infra.Data.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Credo.Application.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Cedro.Infra.Data.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\bin\Debug\netcoreapp2.1\Credo.Application.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.CrossCutting.IoC\obj\Debug\netcoreapp2.1\Cedro.CrossCutting.IoC.pdb

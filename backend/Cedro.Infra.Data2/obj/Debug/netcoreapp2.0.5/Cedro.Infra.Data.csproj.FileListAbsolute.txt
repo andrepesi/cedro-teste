@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Infra.Data.deps.json
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Infra.Data.runtimeconfig.json
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Infra.Data.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Infra.Data.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Infra.Data.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Domain2.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\bin\Debug\netcoreapp2.0.5\Cedro.Domain2.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.AssemblyInfo.cs
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Infra.Data2\obj\Debug\netcoreapp2.0.5\Cedro.Infra.Data.pdb

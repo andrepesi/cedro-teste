@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cedro.CrossCutting.IoC\Cedro.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Cedro.Domain\Cedro.Domain.csproj" />
+    <ProjectReference Include="..\Credo.Application\Credo.Application.csproj" />
+  </ItemGroup>
+
+</Project>

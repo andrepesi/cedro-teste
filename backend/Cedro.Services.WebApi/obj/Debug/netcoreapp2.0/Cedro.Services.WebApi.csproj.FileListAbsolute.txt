@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\bin\Debug\netcoreapp2.0\Cedro.Services.WebApi.deps.json
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\bin\Debug\netcoreapp2.0\Cedro.Services.WebApi.runtimeconfig.json
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\bin\Debug\netcoreapp2.0\Cedro.Services.WebApi.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\bin\Debug\netcoreapp2.0\Cedro.Services.WebApi.dll
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\obj\Debug\netcoreapp2.0\Cedro.Services.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\obj\Debug\netcoreapp2.0\Cedro.Services.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\obj\Debug\netcoreapp2.0\Cedro.Services.WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Cedro\Cedro.Services.WebApi\obj\Debug\netcoreapp2.0\Cedro.Services.WebApi.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\bin\Debug\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\bin\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\obj\Debug\Cedro.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\obj\Debug\Cedro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\obj\Debug\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\Cedro.Domain\obj\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\bin\Debug\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\bin\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.csprojResolveAssemblyReference.cache

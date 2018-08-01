@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Cedro\Credo.Application\bin\Debug\Credo.Application.dll
+C:\Users\Admin\Documents\Cedro\Credo.Application\bin\Debug\Credo.Application.pdb
+C:\Users\Admin\Documents\Cedro\Credo.Application\bin\Debug\Cedro.Domain.dll
+C:\Users\Admin\Documents\Cedro\Credo.Application\bin\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Documents\Cedro\Credo.Application\obj\Debug\Credo.Application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Cedro\Credo.Application\obj\Debug\Credo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cedro\Credo.Application\obj\Debug\Credo.Application.dll
+C:\Users\Admin\Documents\Cedro\Credo.Application\obj\Debug\Credo.Application.pdb
