@@ -1,0 +1,27 @@
+<div class="container">
+  <h3 mat-dialog-title>Criar Restaurante</h3>
+
+  <form class="mat-dialog-content" (ngSubmit)="submit" #formControl="ngForm">
+
+    <div class="form">
+      <mat-form-field color="accent" *ngIf="data.id">
+        <input matInput #input class="form-control" placeholder="Id" readonly ="data.id" name="id" >
+        <mat-error *ngIf="formControl.invalid">{{getErrorMessage()}}</mat-error>
+      </mat-form-field>
+    </div>
+    <input type='hidden' [(ngModel)]='data.dataCriacao'>
+    <input type='hidden' [(ngModel)]='data.dataAtualizacao'>
+    <!--Textarea for demo purposes-->
+    <div class="form">
+      <mat-form-field color="accent">
+        <textarea matInput #input class="form-control" placeholder="Nome" [(ngModel)]="data.nome" name="nome" required ></textarea>
+        <mat-error *ngIf="formControl.invalid">{{getErrorMessage()}}</mat-error>
+      </mat-form-field>
+    </div>
+
+    <div mat-dialog-actions>
+      <button mat-button color="accent" [type]="submit" [disabled]="!formControl.valid" [mat-dialog-close]="1" (click)="confirmAdd()">Salvar</button>
+      <button mat-button (click)="onNoClick()" tabindex="-1">Cancelar</button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,14 @@
+<mat-card>
+  <mat-card-content>
+    <form class="example-form">
+      <mat-form-field class="example-full-width">
+        <input matInput placeholder="Nome do Restaurante"  [ngModelOptions]="{standalone: true}" [(ngModel)] ='restaurante.nome'>
+      </mat-form-field>
+    </form>    
+  </mat-card-content>
+</mat-card>
+<div fxLayout="row">
+  <div fxFlex>&nbsp;</div>
+  <button (click)="save()" mat-raised-button fxFlex="90px" class="save">
+    <mat-icon>save</mat-icon>&nbsp;Salvar</button>
+</div>
