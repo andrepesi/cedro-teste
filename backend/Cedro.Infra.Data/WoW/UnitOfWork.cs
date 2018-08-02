@@ -1,4 +1,5 @@
 ﻿using Cedro.Domain.Interfaces.Infra.Data;
+using Credo.Domain.Validation;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,15 +11,23 @@ namespace Cedro.Infra.Data.WoW
     public class UnitOfWork : IUnitOfWork
     {
         private readonly CedroContext _context;
-
         public UnitOfWork(CedroContext context)
         {
             _context = context;
         }
 
-        public bool Commit()
+        public ValidationResult Commit()
         {
-            return _context.SaveChanges() > 0;
+            ValidationResult validation = new ValidationResult();
+            try
+            {
+                _context.SaveChanges();
+            }
+            catch (Exception e)
+            {
+                validation.AddMessage(e.Message);
+            }
+            return validation;
         }
 
         public void Dispose()

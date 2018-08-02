@@ -1,9 +1,0 @@
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\bin\Debug\netcoreapp2.1\Cedro.Domain2.deps.json
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\bin\Debug\netcoreapp2.1\Cedro.Domain2.dll
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\bin\Debug\netcoreapp2.1\Cedro.Domain2.pdb
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.AssemblyInfoInputs.cache
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.AssemblyInfo.cs
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.dll
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.pdb
-C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain2\obj\Debug\netcoreapp2.1\Cedro.Domain2.csprojAssemblyReference.cache

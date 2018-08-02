@@ -1,5 +1,6 @@
 ﻿using Cedro.Domain.Entities;
 using Cedro.Domain.Interfaces.Infra.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,16 @@ namespace Cedro.Infra.Data.Repositories
     {
         public PratoRepository(CedroContext db) : base(db)
         {
+        }
+        public override IQueryable<Prato> QueryBase()
+        {
+            return Db.Pratos.Include("Restaurante");
+        }
+        public override Prato QueryByIdBase(int id)
+        {
+            var entity =  QueryBase().FirstOrDefault(x=> x.Id == id);
+            Db.Entry(entity).State = EntityState.Detached;
+            return entity;
         }
     }
 }

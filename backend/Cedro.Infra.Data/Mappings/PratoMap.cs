@@ -18,9 +18,12 @@ namespace Cedro.Infra.Data.Mappings
             builder.Property(x => x.Nome)
                    .HasMaxLength(60)
                    .IsRequired();
-
+            builder.Property(p => p.DataCriacao)
+                   .IsRequired().HasDefaultValueSql("getdate()");
+            builder.Property(p => p.DataAtualizacao);
             builder.Property(x => x.Preco)                    
                   .IsRequired();
+           // builder.HasOne(x => x.Restaurante).WithMany().HasForeignKey(x => x.RestauranteId);
         }
     }
 }

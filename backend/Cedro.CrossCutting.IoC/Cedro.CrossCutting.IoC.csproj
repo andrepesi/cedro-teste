@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Cedro.Domain\Cedro.Domain.csproj" />
-    <ProjectReference Include="..\Cedro.Infra.Data2\Cedro.Infra.Data.csproj" />
+    <ProjectReference Include="..\Cedro.Infra.Data\Cedro.Infra.Data.csproj" />
     <ProjectReference Include="..\Credo.Application\Credo.Application.csproj" />
   </ItemGroup>
 </Project>

@@ -12,7 +12,7 @@ namespace Cedro.Infra.Data.Repositories
     public class Repository<TEntity, TKeyType> : IRepository<TEntity,TKeyType>
         where TEntity : class, IEntityKey<TKeyType>
     {
-        protected readonly CedroContext Db;
+        internal readonly CedroContext Db;
         protected readonly DbSet<TEntity> DbSet;
 
         public Repository(CedroContext db)
@@ -34,12 +34,23 @@ namespace Cedro.Infra.Data.Repositories
 
         public IEnumerable<TEntity> SelectAll()
         {
+            var allResults =  QueryBase().ToList();
+            return allResults;
+        }
+        public virtual IQueryable<TEntity> QueryBase()
+        {
             return DbSet.AsNoTracking();
+        }
+        public virtual TEntity QueryByIdBase(TKeyType id)
+        {
+            var entity = DbSet.Find(id);
+            Db.Entry(entity).State = EntityState.Detached;
+            return entity;
         }
 
         public TEntity SelectById(TKeyType id)
         {
-            return DbSet.Find(id);
+            return QueryByIdBase(id);
         }
 
         public void Update(TEntity entity)

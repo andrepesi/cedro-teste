@@ -10,3 +10,9 @@ C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.cspro
 C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.dll
 C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.pdb
 C:\Users\Admin\Documents\Cedro\backend\Cedro.Domain\obj\Debug\Cedro.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\bin\Debug\Cedro.Domain.dll
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\bin\Debug\Cedro.Domain.pdb
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\obj\Debug\Cedro.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\obj\Debug\Cedro.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\obj\Debug\Cedro.Domain.dll
+C:\Users\Admin\Downloads\cedro-teste\backend\Cedro.Domain\obj\Debug\Cedro.Domain.pdb

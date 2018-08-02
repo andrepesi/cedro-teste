@@ -11972,8 +11972,8 @@
     },
     "Cedro.Infra.Data/1.0.0": {
       "type": "project",
-      "path": "../Cedro.Infra.Data2/Cedro.Infra.Data.csproj",
-      "msbuildProject": "../Cedro.Infra.Data2/Cedro.Infra.Data.csproj"
+      "path": "../Cedro.Infra.Data/Cedro.Infra.Data.csproj",
+      "msbuildProject": "../Cedro.Infra.Data/Cedro.Infra.Data.csproj"
     },
     "Credo.Application/1.0.0": {
       "type": "project",
