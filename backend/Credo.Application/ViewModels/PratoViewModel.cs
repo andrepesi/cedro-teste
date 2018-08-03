@@ -12,6 +12,7 @@ namespace Credo.Application.ViewModels
         [Required(ErrorMessage = "Preço do Prato é Obrigatório")]
         public decimal Preco { get; set; }
         [Required(ErrorMessage = "Restaurante do Prato é Obrigatório")]
+        public string PrecoFormatado { get => this.Preco.ToString("c"); }
         public int RestauranteId { get; set; }
         public string NomeRestaurante { get; set; }
     }

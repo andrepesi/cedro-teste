@@ -1,5 +1,5 @@
-import { Restaurante } from './../../types/restaurante';
-import { Prato } from './../../types/pratos';
+import { Restaurante } from '../../types/restaurante';
+import { Prato } from '../../types/pratos';
 import { RestauranteService } from '../../components/restaurante/restaurante.service';
 import {MAT_DIALOG_DATA, MatDialogRef} from '@angular/material';
 import { Component, Inject, OnInit } from '@angular/core';

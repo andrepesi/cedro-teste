@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cedro.CrossCutting.IoC", "Cedro.CrossCutting.IoC\Cedro.CrossCutting.IoC.csproj", "{42A76724-56B8-4995-8CD8-449144E6B8E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cedro.Services", "Cedro.Services\Cedro.Services.csproj", "{CC5BD4B6-E163-4D57-B642-DEEC5126815A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cedro.Services.WebApi", "Cedro.Services\Cedro.Services.WebApi.csproj", "{CC5BD4B6-E163-4D57-B642-DEEC5126815A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cedro.Infra.Data", "Cedro.Infra.Data\Cedro.Infra.Data.csproj", "{38F4622F-E754-46C8-B35B-D2E68557D9DA}"
 EndProject

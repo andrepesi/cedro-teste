@@ -11,7 +11,7 @@
     </div>
     <div class="form">
       <mat-form-field color="accent">
-        <textarea matInput #input class="form-control" placeholder="Nome do Prato" [(ngModel)]="data.nome" name="nome" required ></textarea>
+        <input matInput #input class="form-control" placeholder="Nome do Prato" [(ngModel)]="data.nome" name="nome" required />
         <mat-error *ngIf="formControl.invalid">{{getErrorMessage()}}</mat-error>
       </mat-form-field>
     </div>
@@ -31,8 +31,8 @@
       </mat-form-field>
     </div>
     <div mat-dialog-actions>
-      <button mat-button [type]="submit" [disabled]="!formControl.valid" [mat-dialog-close]="1" color="primary" (click)="stopEdit()">Salvar</button>
-      <button mat-button (click)="onNoClick()" tabindex="-1">Cancelar</button>
+      <button mat-raised-button color="primary"	 [type]="submit" [disabled]="!formControl.valid" [mat-dialog-close]="1" color="primary" (click)="stopEdit()">Salvar</button>
+      <button mat-raised-button	 (click)="onNoClick()" tabindex="-1">Cancelar</button>
     </div>
   </form>
 </div>

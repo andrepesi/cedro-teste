@@ -1,8 +1,7 @@
-import { RestauranteEditComponent } from '../components/restaurante-edit/restaurante-edit.component';
-import { PratosComponent } from '../components/pratos/pratos.component';
+import { PratosComponent } from './components/pratos/pratos.component';
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { RestauranteComponent } from '../components/restaurante/restaurante.component';
+import { RestauranteComponent } from './components/restaurante/restaurante.component';
 
 const routes: Routes = [
   {
@@ -12,10 +11,6 @@ const routes: Routes = [
   {
     path: 'restaurante',
     component : RestauranteComponent
-  },
-  {
-    path: 'restaurante/edit/:id',
-    component : RestauranteEditComponent
   },
   {
     path: 'prato',

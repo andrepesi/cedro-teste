@@ -1,5 +1,5 @@
 import { MatDialog, MatTableDataSource } from '@angular/material';
-import { PratoDialogComponent } from './../../dialogs/prato-dialog/prato.dialog.component';
+import { PratoDialogComponent } from '../../dialogs/prato-dialog/prato.dialog.component';
 import { Prato } from '../../types/pratos';
 import { PratoService } from './prato.service';
 import { Component, OnInit } from '@angular/core';
@@ -26,7 +26,7 @@ export class PratosComponent implements OnInit {
   }
   addNew() {
     const dialogRef = this.dialog.open(PratoDialogComponent, 
-      { height: '350px', width: '600px',  data: {} as Prato }
+      {  data: {} as Prato }
     );
 
     dialogRef.afterClosed().subscribe((item: Prato) => {

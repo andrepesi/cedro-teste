@@ -12001,9 +12001,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Services\\Cedro.Services.csproj",
-      "projectName": "Cedro.Services",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Services\\Cedro.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Services\\Cedro.Services.WebApi.csproj",
+      "projectName": "Cedro.Services.WebApi",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Services\\Cedro.Services.WebApi.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Downloads\\cedro-teste\\backend\\Cedro.Services\\obj\\",
       "projectStyle": "PackageReference",

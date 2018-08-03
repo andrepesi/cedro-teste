@@ -10,3 +10,38 @@ table {
     font-size: 14px;
     width: 100%;
   }
+  .form {
+    margin:15px;
+  }
+  .id{
+    flex: 0 0 75px;
+  }
+  .nome{
+    flex: 0 0 300px;
+  }
+  /* Structure */
+.example-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+
+.example-header {
+  min-height: 64px;
+  padding: 8px 24px 0;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.mat-table {
+  overflow: auto;
+  max-height: 500px;
+}
+
+.mat-dialog-content {
+  max-height: initial !important;
+  overflow: initial !important;
+}
